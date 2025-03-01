@@ -38,12 +38,6 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia, segurança digita
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,html,js" />
 </div>
 
-
-🛠 **Outras habilidades:**  
-✔️ APIs RESTful | GraphQL | WebSockets  
-✔️ Banco de Dados: PostgreSQL | MySQL | Firebase  
-✔️ Arquitetura de Software & Design Patterns  
-
 ---
 
 ## 📈 Estatísticas do GitHub  
