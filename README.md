@@ -61,7 +61,7 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia, segurança digita
 🔹 **[CyberShield](https://github.com/Joanderson/cybershield)** – Ferramenta para análise de segurança digital, varredura de vulnerabilidades e proteção de dados.  
 🔹 **[E-commerce Inteligente](https://github.com/Joanderson/ecommerce-inteligente)** – Plataforma e-commerce otimizada com IA para recomendações personalizadas.  
 
-📌 Veja mais projetos no meu [GitHub](https://github.com/Joanderson).  
+📌 Veja mais projetos no meu [GitHub](https://github.com/devfederal?tab=projects).  
 
 ---
 
