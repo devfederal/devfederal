@@ -32,9 +32,6 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia, segurança digita
 - Automação & Scripts ⚙️  
 
 ---
-
-## 🔧 Tecnologias & Ferramentas  
-
 ## 🔧 Tecnologias & Ferramentas  
 
 <div align="center">
