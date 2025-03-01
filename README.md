@@ -35,9 +35,12 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia, segurança digita
 
 ## 🔧 Tecnologias & Ferramentas  
 
+## 🔧 Tecnologias & Ferramentas  
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,html,css,tailwind,bootstrap,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,html,js" />
 </div>
+
 
 🛠 **Outras habilidades:**  
 ✔️ APIs RESTful | GraphQL | WebSockets  
