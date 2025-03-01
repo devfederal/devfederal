@@ -65,11 +65,4 @@ Sou um **desenvolvedor full stack** apaixonado por tecnologia, segurança digita
 
 ---
 
-## 📬 Entre em Contato  
-
-📩 **E-mail:** mateusandeson@gmail.com  
-📌 **LinkedIn:** [Joanderson Mateus](https://www.linkedin.com/in/joanderson-mateus-aa82a91b2/)  
-
----
-
 🚀 *Sempre buscando aprender, inovar e contribuir para o mundo da tecnologia!*  
