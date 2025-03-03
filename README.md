@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Joanderson!</h1>
 
 <p align="center">
-  <b>💻 Desenvolvedor Full Stack | 🔒 Especialista em Segurança Digital | 🎯 Apaixonado por Tecnologia</b>
+  <b>💻 Desenvolvedor Full Stack em formação | 🔒 Entusiasta de Segurança Digital | 🎯Sempre em busca de novos desafios na tecnologia.</b>
 </p>
 
 <p align="center">
