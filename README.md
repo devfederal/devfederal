@@ -23,7 +23,7 @@
 
 ## 🚀 Sobre Mim  
 
-Sou um **desenvolvedor full stack** apaixonado por tecnologia, segurança digital e desenvolvimento de software. Com experiência em **desenvolvimento web, automação e cibersegurança**, busco sempre aprimorar minhas habilidades e contribuir para projetos inovadores.  
+Sou um **desenvolvedor full stack em formação** apaixonado por tecnologia, segurança digital e desenvolvimento de software. Tenho como foco **desenvolvimento web, automação e cibersegurança**, busco sempre aprimorar minhas habilidades e contribuir para projetos inovadores.  
 
 📌 **Áreas de interesse:**  
 - Segurança da Informação 🔐  
