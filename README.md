@@ -61,15 +61,16 @@ Tenho interesse em aprender continuamente, resolver problemas e transformar idei
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devfederal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=devfederal&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfederal&layout=compact&theme=radical" alt="Linguagens mais utilizadas" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfederal&layout=compact&theme=radical&langs_count=8" />
-
-</div>
 
 ---
 
