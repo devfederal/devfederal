@@ -42,9 +42,17 @@ Sou um **desenvolvedor full stack em formação** apaixonado por tecnologia, seg
 
 ## 📈 Estatísticas do GitHub  
 
+## 📈 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=devfederal&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfederal&layout=compact&langs_count=7&theme=radical&v=2" />
+
+<a href="https://github.com/devfederal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfederal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/devfederal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfederal&layout=compact&langs_count=10&theme=radical&hide_progress=false" />
+</a>
 
 </div>
 
